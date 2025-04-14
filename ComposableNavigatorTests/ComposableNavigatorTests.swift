@@ -7,7 +7,6 @@
 
 import Testing
 import ComposableArchitecture
-import Foundation
 import SwiftUI
 
 @testable import ComposableNavigator
